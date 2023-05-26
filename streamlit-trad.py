@@ -5,6 +5,7 @@ pip install openai
 import streamlit as st
 import openai
 
+
 # Initialisation de l'API de ChatGPT
 openai.api_key = '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'
 
